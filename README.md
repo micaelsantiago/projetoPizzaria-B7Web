@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Compra de Pizzas </h1>
 
 <p align="center">
-Projeto de compras de pizzas desenvolvido no curso de JavaScript da B7WebS. <br/>
+Projeto de compras de pizzas desenvolvido no curso de JavaScript da B7Web. <br/>
 </p>
 
 <p align="center">
